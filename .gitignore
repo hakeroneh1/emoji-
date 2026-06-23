@@ -1,0 +1,13 @@
+# Стикерпаки (слишком большие для GitHub)
+*/
+
+# Системные файлы
+.cache/
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Временные файлы
+downloads/
+*.pyc
+__pycache__/
